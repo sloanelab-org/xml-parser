@@ -4,7 +4,7 @@ This repository contains the parser that is used to import data from the [Enligh
 
 The code of the parser is in the Jupyter notebook [Sloane_XML_Parser.ipynb](https://github.com/sloanelab-org/xml-parser/blob/main/Sloane_XML_Parser.ipynb). The following libraries are required:
 
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), to parse the XML
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) and [lxml](https://lxml.de), to parse the XML
 * [Pandas](https://pandas.pydata.org/), to manipulate and analyse the data
 * [Matplotlib](https://matplotlib.org/), to create charts
 * [Mapbox](https://pypi.org/project/mapbox/), to create maps
